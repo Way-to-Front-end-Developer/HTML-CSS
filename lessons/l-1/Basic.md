@@ -7,6 +7,10 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 Когда такая страница открывается в браузере, он просматривает код HTML, находит специальные символы,  
 называемые тегами, и использует их для создания элементов, таких как: рисунки, таблицы, ссылки и др.
 
+### HTML Document  
+
+http://www.etsav.upc.edu/assignatures/portafoli/tutorial1/3.html#:~:text=It's%20a%20text%20document%20saved,tutorials%20when%20applied%20and%20needed
+
 ### Element HTML
 
 https://developer.mozilla.org/en-US/docs/Glossary/Element  
@@ -27,6 +31,19 @@ An **HTML tag** is a piece of markup language used to indicate the beginning and
 a web browser can distinguish between an HTML content and a simple content.
 
 HTML tags contain three main parts: an opening tag, content, and closing tag.
+
+### Element VS Tag  
+
+Elements and tags are not the same things.   
+Теги начинают или заканчивают элемент в исходном коде, тогда как элементы являются частью DOM, модели документа для отображения страницы в браузере.  
+(When you will use js all be clear)  
+In HTML, a **tag** is used for creating an element.  
+The name of an HTML element is the name used in angle brackets such as <p> for paragraph.  
+Тег HTML — это часть языка разметки, используемая для обозначения начала и конца элемента HTML в документе HTML.  
+As part of an HTML element, HTML tags help web browsers convert HTML documents into web pages.  
+For example, the <p> tag is used to organize text content into paragraph elements and the <img> tag is used to embed image elements.
+  
+**Empty elements** - https://developer.mozilla.org/en-US/docs/Glossary/Empty_element
 
 ### Семантика
 
