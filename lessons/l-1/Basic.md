@@ -88,11 +88,8 @@ https://developer.mozilla.org/en-US/docs/Glossary/Hyperlink
   
 ## HTML absolute and relative path
   
-**The relative path** means that the path to the file or page of the site is specified relative to  
-the directory in which the current page is located, or relative to the root directory of the site. 
-  
-**An absolute path** is usually used to specify the path to a file that is located on another network resource.  
-It is a complete URL to a file or page. In the absolute path, the protocol is first specified, followed by  
-the domain name (site name). For example: http://www.example.com - this is how the absolute path to a particular  
-website looks. http:// is a data transfer protocol, and www.example.com is the name of the site (domain)
+The path with reference to root directory is called absolute. The path with reference to current directory is called relative.
+
+https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
+https://www.w3schools.com/html/html_filepaths.asp
 
