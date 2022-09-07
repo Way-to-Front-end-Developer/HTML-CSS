@@ -1,5 +1,7 @@
 ### HTML
 
+history - https://vertex-academy.com/tutorials/ru/html_history/
+
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 **HTML**(Hypertext Markup Language) — язык гипертекстовой разметки для создания веб-страниц, представляет собой текстовый файл, который умеет читать  
@@ -52,6 +54,9 @@ For example, the <p> tag is used to organize text content into paragraph element
 
 **Семантическая вёрстка** — подход к разметке, который опирается не на содержание сайта, а
 на смысловое предназначение каждого блока и логическую структуру документа.
+  
+В программировании, Семантика означает значение фрагмента кода - например, «к какому результату приведёт выполнение этой строки JavaScript?»,  
+или «каково предназначение или какая роль у этого элемента HTML» (а не «как он выглядит ?».)
 
 Semantic elements = elements with a meaning.
 
@@ -64,8 +69,30 @@ https://www.simplilearn.com/tutorials/html-tutorial/html-semantics
 ### Anatomy of an HTML document  
 
 https://sites.pitt.edu/~ach54/teaching/cs0134-2191/slides/lecture-2.pdf
+  
+### Attributes
+  
+**HTML-атрибуты** это специальные слова, которые управляют поведением HTML-элемента. Они добавляют    
+дополнительную функциональность, либо меняют поведение элемента по умолчанию. Атрибуты элемента выражаются внутри начального тега элемента.
+  
+**Атрибут — не обязательное свойство тега.**
+
+Нужен для описания более детальных характеристик html-элемента. Помещается внутри тега, и состоит из конструкции: ключ="значение".  
+**src** — Указывает адрес файла, который будет загружаться на сайте.  
+**href**— Указывает адрес документа, на который следует перейти.  
+**class** — определяет одно или несколько имен для HTML элемента.  Позволяет связать определенный тег с его стилями или javascript логикой.
 
 ### Hyperlink
-
+  
 https://developer.mozilla.org/en-US/docs/Glossary/Hyperlink
+  
+## HTML absolute and relative path
+  
+**The relative path** means that the path to the file or page of the site is specified relative to  
+the directory in which the current page is located, or relative to the root directory of the site. 
+  
+**An absolute path** is usually used to specify the path to a file that is located on another network resource.  
+It is a complete URL to a file or page. In the absolute path, the protocol is first specified, followed by  
+the domain name (site name). For example: http://www.example.com - this is how the absolute path to a particular  
+website looks. http:// is a data transfer protocol, and www.example.com is the name of the site (domain)
 
