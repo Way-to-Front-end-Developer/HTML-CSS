@@ -1,4 +1,4 @@
 # HTML
 
 
-- :page_with_curl: [HTML tutorial](./lessons/ls-1/basic.md)
+- :page_with_curl: [HTML tutorial](./lessons/l-1/basic.md)
