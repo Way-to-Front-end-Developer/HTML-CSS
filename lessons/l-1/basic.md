@@ -81,6 +81,12 @@ https://sites.pitt.edu/~ach54/teaching/cs0134-2191/slides/lecture-2.pdf
 **src** — Указывает адрес файла, который будет загружаться на сайте.  
 **href**— Указывает адрес документа, на который следует перейти.  
 **class** — определяет одно или несколько имен для HTML элемента.  Позволяет связать определенный тег с его стилями или javascript логикой.
+  
+Attributes contain extra information about the element that won't appear in the content.  
+In this example, the class attribute is an identifying name used to target the element with style information.
+  
+**action** in form it is that where form will send  
+Every input has name  and value name=key value=velue
 
 ### Hyperlink
   
