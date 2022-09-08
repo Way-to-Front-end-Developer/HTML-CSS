@@ -103,4 +103,6 @@ the directory in which the current page is located, or relative to the root dire
 It is a complete URL to a file or page. In the absolute path, the protocol is first specified, followed by  
 the domain name (site name). For example: http://www.example.com - this is how the absolute path to a particular  
 website looks. http:// is a data transfer protocol, and www.example.com is the name of the site (domain)
+  
+
 
