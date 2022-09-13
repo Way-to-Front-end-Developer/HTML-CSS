@@ -1,0 +1,14 @@
+Assignment
+
+download vsc https://www.youtube.com/watch?v=aogVqWGWaFk  
+meeting with html https://www.youtube.com/watch?v=CvEttNvty0U
+
+- Разобраться из каких основных тегов состоит базовый каркас HTML страницы.
+Повторить и знать следующие теги: <html>, <head>, <body>, <title>, <p>, <h1> - <h6>, <br>, <b>, <strong>, <i>, <em>, <hr>,  
+<ul>, <li>, <ol>, <a>, <img>, <table>, <thead>, <tbody>, <tr>, <th>, <td>
+Описание их вы найдете на http://htmlbook.ru/. Также в записи занятия можете пересмотреть, там тоже есть.
+
+Usefull materials:  
+http://htmlbook.ru/  
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://html5book.ru/html-html5/  

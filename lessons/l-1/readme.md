@@ -6,6 +6,10 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 
 **HTML**(Hypertext Markup Language) — язык гипертекстовой разметки для создания веб-страниц, представляет собой текстовый файл, который умеет читать браузер. HTML состоит из набора элементов, элементы HTML сообщают браузеру, как отображать содержимое. Когда такая страница открывается в браузере, он просматривает код HTML, находит специальные символы, называемые тегами, и использует их для создания элементов, таких как: рисунки, таблицы, ссылки и др.
 
+HTML (Hyper Text Markup Language) — это язык разметки информации на веб-странице.(low)  
+
+Документ HTML — это описание структуры страницы, в котором каждый элемент обозначен с помощью тэга.
+
 ### HTML Document  
 
 http://www.etsav.upc.edu/assignatures/portafoli/tutorial1/3.html#:~:text=It's%20a%20text%20document%20saved,tutorials%20when%20applied%20and%20needed
@@ -25,9 +29,12 @@ a part of the HTML document. HTML elements can contain formatting instructions, 
 
 https://www.digitalocean.com/community/tutorials/what-is-an-html-tag
 
-An **HTML tag** is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document.  
+An **HTML tag** is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document + describe element  
+(text,img, table etc.)
 **HTML tags** are like keywords that define how a web browser will format and display the content. With the help of tags,
-a web browser can distinguish between an HTML content and a simple content.
+a web browser can distinguish between an HTML content and a simple content.  
+
+Тэг описывает отдельный элемент страницы: текст, картинку, таблицу и т. д.
 
 HTML tags contain three main parts: an opening tag, content, and closing tag.
 
@@ -65,14 +72,15 @@ https://www.simplilearn.com/tutorials/html-tutorial/html-semantics
 
 ### Anatomy of an HTML document  
 
-https://sites.pitt.edu/~ach54/teaching/cs0134-2191/slides/lecture-2.pdf
+https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/  
+https://html5book.ru/osnovy-html/#part1
   
 ### Attributes
   
 **HTML-атрибуты** это специальные слова, которые управляют поведением HTML-элемента. Они добавляют    
 дополнительную функциональность, либо меняют поведение элемента по умолчанию. Атрибуты элемента выражаются внутри начального тега элемента.
   
-**Атрибут — не обязательное свойство тега.**
+**Атрибут — не обязательное свойство тега, с помощью которого можно задавать дополнительные параметры.**  
 
 Нужен для описания более детальных характеристик html-элемента. Помещается внутри тега, и состоит из конструкции: ключ="значение".  
 **src** — Указывает адрес файла, который будет загружаться на сайте.  
@@ -87,7 +95,7 @@ Every input has name  and value name=key value=velue
 
 ### Hyperlink
   
-https://developer.mozilla.org/en-US/docs/Glossary/Hyperlink
+https://developer.mozilla.org/en-US/docs/Glossary/Hyperlink  
   
 ## HTML absolute and relative path
   
@@ -105,4 +113,18 @@ the domain name (site name). For example: http://www.example.com - this is how t
 website looks. http:// is a data transfer protocol, and www.example.com is the name of the site (domain)
   
 
+**b(i) vs strong(em)** 
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#b_vs._strong
+
+**validator**  
+
+https://validator.w3.org/
+
+Правила оформления кода:  
+
+Чтобы код было удобно читать, нужно соблюдать несколько правил оформления:  
+- Каждый отдельный элемент должен находиться на отдельной строке.  
+- Элементы одного уровня вложенности должны иметь одинаковый отступ.  
+- Длинный текст нужно разделять на несколько строк.  
+- Для указания значения атрибутов нужно использовать двойные кавычки.
