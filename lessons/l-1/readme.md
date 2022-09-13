@@ -74,6 +74,10 @@ https://www.simplilearn.com/tutorials/html-tutorial/html-semantics
 
 https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/  
 https://html5book.ru/osnovy-html/#part1
+
+**meta**    
+https://developers.google.com/search/docs/crawling-indexing/special-tags
+
   
 ### Attributes
   
