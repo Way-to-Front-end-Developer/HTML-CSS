@@ -1,0 +1,20 @@
+.lead {
+  font-style: italic;
+}
+
+.red {
+  color: red;
+}
+
+.head li {
+  color: red;
+}
+
+h1,
+.price {
+  color: red;
+}
+
+li:first-child {
+  color: red;
+}
