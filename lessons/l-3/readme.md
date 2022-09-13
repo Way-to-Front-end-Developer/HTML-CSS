@@ -1,3 +1,5 @@
+### Class
+
 The **class** global attribute is a space-separated list of the case-sensitive classes of the element. Classes allow CSS and JavaScript to select and access specific elements via the class selectors or functions like the DOM method document.getElementsByClassName.
 
 Один элемент может относиться к нескольким классам. Имена в этом случае указываются в атрибуте class через пробел.  
