@@ -2,6 +2,7 @@
 
 ## Common 
 
+- [Как браузер рендрит веб-страницу][0]
 - [MDN][1]
 - [Основы HTML и HTML5][2]  
 - [Основы CSS и CSS3][3]
@@ -9,6 +10,7 @@
 - [Слова, часто используемые в CSS-классах][11]
 - [Блочные и строчные элементы][12]
 
+[0]: https://webdevblog.ru/kak-brauzer-renderit-veb-stranicu/
 [1]: https://developer.mozilla.org/en-US/
 [2]: https://html5book.ru/html-html5/
 [3]: https://html5book.ru/css-css3/  
@@ -26,4 +28,11 @@
 ## Video  
 
 Welcome to HTML and CSS: https://www.youtube.com/watch?v=CvEttNvty0U
+
+## Newsletter  
+
+- [freeCodeCamp][100]
+
+
+[100]: https://www.freecodecamp.org/news
 
