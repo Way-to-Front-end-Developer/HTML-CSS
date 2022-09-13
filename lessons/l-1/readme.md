@@ -19,8 +19,7 @@ http://www.etsav.upc.edu/assignatures/portafoli/tutorial1/3.html#:~:text=It's%20
 https://developer.mozilla.org/en-US/docs/Glossary/Element  
 https://www.digitalocean.com/community/tutorials/what-is-an-html-element
 
-The **HTML element** is everything from the start tag to the end tag, web page consists from elements.  
-An HTML element is defined by a start tag, some content, and an end tag.
+**Elements** are designators that define the structure and content of objects within a page.
 
 An **HTML element** is a component of an HTML document that tells a web browser how to structure and interpret  
 a part of the HTML document. HTML elements can contain formatting instructions, semantic meaning, and content.
