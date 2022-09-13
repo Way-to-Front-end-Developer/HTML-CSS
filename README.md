@@ -23,4 +23,7 @@
 - :page_with_curl: [HTML tutorial - lesson-2](./lessons/l-2/readme.md)  
 - :page_with_curl: [HTML tutorial - lesson-3](./lessons/l-3/readme.md)
 
+## Video  
+
+Welcome to HTML and CSS: https://www.youtube.com/watch?v=CvEttNvty0U
 
