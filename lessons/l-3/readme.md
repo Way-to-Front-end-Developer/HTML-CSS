@@ -16,7 +16,9 @@ The **class** global attribute is a space-separated list of the case-sensitive c
 }
 ```
 
-### Сложные селекторы
+### Сложные селекторы  
+
+https://web.dev/learn/css/selectors/
 
 Чтобы описать элемент с помощью нескольких селекторов, их нужно перечислить друг за другом, без пробелов и запятых.
 
