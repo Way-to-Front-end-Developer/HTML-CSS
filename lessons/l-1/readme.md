@@ -1,3 +1,5 @@
+Advanced:https://advanced.team/
+
 ### HTML
 
 history - https://vertex-academy.com/tutorials/ru/html_history/
@@ -19,8 +21,7 @@ http://www.etsav.upc.edu/assignatures/portafoli/tutorial1/3.html#:~:text=It's%20
 https://developer.mozilla.org/en-US/docs/Glossary/Element  
 https://www.digitalocean.com/community/tutorials/what-is-an-html-element
 
-The **HTML element** is everything from the start tag to the end tag, web page consists from elements.  
-An HTML element is defined by a start tag, some content, and an end tag.
+**Elements** are designators that define the structure and content of objects within a page.
 
 An **HTML element** is a component of an HTML document that tells a web browser how to structure and interpret  
 a part of the HTML document. HTML elements can contain formatting instructions, semantic meaning, and content.
@@ -74,6 +75,10 @@ https://www.simplilearn.com/tutorials/html-tutorial/html-semantics
 
 https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/  
 https://html5book.ru/osnovy-html/#part1
+
+**meta**    
+https://developers.google.com/search/docs/crawling-indexing/special-tags
+
   
 ### Attributes
   
@@ -128,3 +133,7 @@ https://validator.w3.org/
 - Элементы одного уровня вложенности должны иметь одинаковый отступ.  
 - Длинный текст нужно разделять на несколько строк.  
 - Для указания значения атрибутов нужно использовать двойные кавычки.
+  
+**Мнемоники или спецсимволы гипертекстовой разметке** как правило применяются для отображения на вебстранице символов отсутствующих на клавиатур
+  
+  

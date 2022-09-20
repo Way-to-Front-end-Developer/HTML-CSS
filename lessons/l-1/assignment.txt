@@ -1,6 +1,7 @@
 Assignment
 
-download vsc https://www.youtube.com/watch?v=aogVqWGWaFk  
+download vsc: https://www.youtube.com/watch?v=aogVqWGWaFk  
+open vsc in browser: https://www.alphr.com/vs-code-open-in-browser/
 meeting with html https://www.youtube.com/watch?v=CvEttNvty0U
 
 - Разобраться из каких основных тегов состоит базовый каркас HTML страницы.
