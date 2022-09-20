@@ -27,7 +27,9 @@ The **class** global attribute is a space-separated list of the case-sensitive c
 
 ### Псевдоклассы
 
-это встроенные классы CSS, которые описывают состояние элемента.
+https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes
+
+это встроенные классы CSS, которые описывают особое состояние элемента.
 
 ```
 li:first-child {

@@ -1,20 +1,38 @@
-.lead {
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* h2 {
+  font-size: 100px;
+  color: red;
+}
+
+.title {
+  color: black;
+}
+
+p.title {
+  color: aqua;
+} */
+
+/* .lead {
   font-style: italic;
-}
+} */
 
-.red {
+/* .red {
   color: red;
-}
+} */
 
-.head li {
+/* .head li {
   color: red;
-}
+} */
 
-h1,
+/* h1,
 .price {
   color: red;
-}
+} */
 
-li:first-child {
-  color: red;
-}
+/* li:hover {
+  font-size: 40px;
+  color: blueviolet;
+} */
