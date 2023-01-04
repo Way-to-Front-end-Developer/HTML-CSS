@@ -61,4 +61,6 @@ flex-start, flex-end, center, baseline, stretch (растягивание эле
 
 `<article>` — самостоятельный фрагмент документа, который не зависит от других частей. Примеры: статья, пост в блоге, отдельная запись на форуме и пр.
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+
 
