@@ -1,5 +1,12 @@
 # HTML + CSS
 
+src:  
+ - http://w3c.github.io/html-reference/elements.html
+ - https://html.spec.whatwg.org/multipage/
+ - https://html5css.ru/
+ - https://www.w3schools.com/
+ - https://htmlacademy.ru/courses
+
 ## Common
 
 - [Как браузер рендрит веб-страницу][0]
